@@ -1,0 +1,8 @@
+{
+  "name": "RIVA Streetwear | Made To Stand Out",
+  "description": "Premium Pakistani streetwear brand with international ambitions. Heavyweight cotton essentials for Men, Women and Kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
